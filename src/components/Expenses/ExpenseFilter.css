@@ -23,3 +23,10 @@
     font-weight: bold;
     border-radius: 6px;
   }
+
+  @media only screen and (max-width: 480px){
+   
+    .expenses-filter {
+      color: white;
+  }
+  }

@@ -24,3 +24,20 @@
     font-size: 1.5rem;
     font-weight: bold;
   }
+
+
+  
+  @media only screen and (max-width: 480px){
+    .expense-date {
+      display: flex;
+      flex-direction: column;
+      width: 4rem;
+      height: 5.3rem;
+      border: 1px solid #ececec;
+      background-color: #2a2a2a;
+      color: white;
+      border-radius: 10px;
+      align-items: center;
+      justify-content: center;
+    }
+  }

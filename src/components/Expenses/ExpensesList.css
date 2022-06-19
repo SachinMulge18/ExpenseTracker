@@ -1,5 +1,8 @@
-
+ul{
+  width: 100%;
+}
 .expenses-list {
+
   list-style: none;
   padding: 0;
 }

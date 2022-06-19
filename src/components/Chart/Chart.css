@@ -10,3 +10,18 @@
     margin-left: 3rem;
 
   }
+
+  @media only screen and (max-width: 480px){
+    .chart {
+      padding: 1rem;
+      border-radius: 12px;
+      background-color: #f8dfff;
+      text-align: center;
+      display: flex;
+      justify-content: space-between;
+      height: 10rem;
+      width: 100%;
+      margin-left: 0.1rem;
+  
+    } 
+  }
